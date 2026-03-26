@@ -11,6 +11,8 @@ The project includes
 - 5 fold cross validation
 - Streamlit web app
 The model uses the features
+
+
 - Age
 - Sex
 - Cp
