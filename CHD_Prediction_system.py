@@ -235,5 +235,5 @@ if st.button("Predict_CHD"):
         st.success(f"No_CHD_Detected, probability : {probability: 2f}")
 
 
-# run with python -m streamlit run ALLCODE.py
+# run with python -m streamlit run CHD_Prediction_system.py
 
