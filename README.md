@@ -1,4 +1,4 @@
-# Ai_Application_for_business
+# Ai_Application_for_CHD
 
 Coronary heart disease prediction model
 This projects builds a machine learning system to predict "Coronary Heart disease in patient" using patients data.
